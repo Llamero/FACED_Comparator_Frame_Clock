@@ -1,0 +1,1233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\Ben\Documents\GitHub\FACED_Comparator_Frame_Clock\FACED Frame Clock\FACED Frame Clock.kicad_sch</source>
+    <date>9/6/2024 4:43:07 PM</date>
+    <tool>Eeschema 7.0.1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>FACED Frame Clock.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>1nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>https://product.tdk.com/en/system/files?file=dam/doc/product/capacitor/ceramic/mlcc/catalog/mlcc_automotive_midvoltage_en.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">TDK Corporation</field>
+        <field name="Part">CGA3E2X7R2A102K080AA</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Manufacturer" value="TDK Corporation"/>
+      <property name="Part" value="CGA3E2X7R2A102K080AA"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FACED Frame Clock.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5b4964dc-7a54-4a00-ab97-cb22906721ce</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>0.1µF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/mlcc/catalog/mlcc_commercial_general_en.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">TDK Corporation</field>
+        <field name="Part">C1608X7R1H104K080AA</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Manufacturer" value="TDK Corporation"/>
+      <property name="Part" value="C1608X7R1H104K080AA"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FACED Frame Clock.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6821b842-20a9-4b3a-a888-7d7c1827c7b0</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>4.7µF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/609/CL10A475KP8NNNC_Spec.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Part">CL10A475KP8NNNC</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Part" value="CL10A475KP8NNNC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FACED Frame Clock.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>af6b4745-81b0-4c04-bef6-8547de235bdc</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>0.1µF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/mlcc/catalog/mlcc_commercial_general_en.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">TDK Corporation</field>
+        <field name="Part">C1608X7R1H104K080AA</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Manufacturer" value="TDK Corporation"/>
+      <property name="Part" value="C1608X7R1H104K080AA"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FACED Frame Clock.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9f99b2c6-0fcb-4b95-97ed-68787a2f89b9</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>4.7µF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/609/CL10A475KP8NNNC_Spec.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Part">CL10A475KP8NNNC</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Part" value="CL10A475KP8NNNC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FACED Frame Clock.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f88ce762-e671-4055-9845-e3cd6f4490de</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>1nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>https://product.tdk.com/en/system/files?file=dam/doc/product/capacitor/ceramic/mlcc/catalog/mlcc_automotive_midvoltage_en.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">TDK Corporation</field>
+        <field name="Part">CGA3E2X7R2A102K080AA</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Manufacturer" value="TDK Corporation"/>
+      <property name="Part" value="CGA3E2X7R2A102K080AA"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FACED Frame Clock.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4359afd5-051c-4c1e-930e-546bdf3fbbde</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>0.1µF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/mlcc/catalog/mlcc_commercial_general_en.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">TDK Corporation</field>
+        <field name="Part">C1608X7R1H104K080AA</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Manufacturer" value="TDK Corporation"/>
+      <property name="Part" value="C1608X7R1H104K080AA"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FACED Frame Clock.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>94ddbc47-b5b5-4bcf-9086-167a35343ce5</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>4.7µF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/609/CL10A475KP8NNNC_Spec.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Part">CL10A475KP8NNNC</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Part" value="CL10A475KP8NNNC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FACED Frame Clock.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>53296aae-e04b-4f2e-b8d4-7b2c1b555d4e</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>0.1µF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/mlcc/catalog/mlcc_commercial_general_en.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">TDK Corporation</field>
+        <field name="Part">C1608X7R1H104K080AA</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Manufacturer" value="TDK Corporation"/>
+      <property name="Part" value="C1608X7R1H104K080AA"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FACED Frame Clock.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>264ff722-fcd5-4d26-9175-d410a73014b6</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>4.7µF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/609/CL10A475KP8NNNC_Spec.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Part">CL10A475KP8NNNC</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Part" value="CL10A475KP8NNNC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FACED Frame Clock.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>be4a13e1-86ce-40f3-b293-e8638f1734c8</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>ACH3218-103-TD01</value>
+      <footprint>CAP_TDK_ACH3218_TDK</footprint>
+      <datasheet>https://product.tdk.com/en/system/files?file=dam/doc/product/emc/emc/3tf/catalog/3tf_commercial_power_ach3218_en.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">TDK Corporation</field>
+        <field name="Part">ACH3218-103-TD01</field>
+      </fields>
+      <libsource lib="Custom" part="ACH3218-103-TD01" description=""/>
+      <property name="Manufacturer" value="TDK Corporation"/>
+      <property name="Part" value="ACH3218-103-TD01"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FACED Frame Clock.kicad_sch"/>
+      <property name="ki_keywords" value="ACH3218-103-TD01"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d0124c64-5d8b-4c22-a376-14d7a8b28adf</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>ACH3218-103-TD01</value>
+      <footprint>CAP_TDK_ACH3218_TDK</footprint>
+      <datasheet>https://product.tdk.com/en/system/files?file=dam/doc/product/emc/emc/3tf/catalog/3tf_commercial_power_ach3218_en.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">TDK Corporation</field>
+        <field name="Part">ACH3218-103-TD01</field>
+      </fields>
+      <libsource lib="Custom" part="ACH3218-103-TD01" description=""/>
+      <property name="Manufacturer" value="TDK Corporation"/>
+      <property name="Part" value="ACH3218-103-TD01"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FACED Frame Clock.kicad_sch"/>
+      <property name="ki_keywords" value="ACH3218-103-TD01"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>738ee9d1-5647-405c-934f-3c54ae14efa0</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>22µF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/339/CL21A226MAYNNNE_Spec.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Part">CL21A226MAYNNNE</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Part" value="CL21A226MAYNNNE"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FACED Frame Clock.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>23db4637-b89c-4394-9b4d-d3b26499f84b</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>4.7µF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/609/CL10A475KP8NNNC_Spec.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Part">CL10A475KP8NNNC</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Part" value="CL10A475KP8NNNC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FACED Frame Clock.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7313557e-608a-4c77-9b0d-1c58ea6a1af3</tstamps>
+    </comp>
+    <comp ref="C15">
+      <value>22µF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/339/CL21A226MAYNNNE_Spec.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Part">CL21A226MAYNNNE</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Part" value="CL21A226MAYNNNE"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FACED Frame Clock.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ec96e733-5f5d-4196-926f-04f82f475e5f</tstamps>
+    </comp>
+    <comp ref="C16">
+      <value>22µF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/339/CL21A226MAYNNNE_Spec.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Part">CL21A226MAYNNNE</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Part" value="CL21A226MAYNNNE"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FACED Frame Clock.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>793b4597-ef12-4a2b-913c-6f22981efeeb</tstamps>
+    </comp>
+    <comp ref="C17">
+      <value>ACH3218-103-TD01</value>
+      <footprint>CAP_TDK_ACH3218_TDK</footprint>
+      <datasheet>https://product.tdk.com/en/system/files?file=dam/doc/product/emc/emc/3tf/catalog/3tf_commercial_power_ach3218_en.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">TDK Corporation</field>
+        <field name="Part">ACH3218-103-TD01</field>
+      </fields>
+      <libsource lib="Custom" part="ACH3218-103-TD01" description=""/>
+      <property name="Manufacturer" value="TDK Corporation"/>
+      <property name="Part" value="ACH3218-103-TD01"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FACED Frame Clock.kicad_sch"/>
+      <property name="ki_keywords" value="ACH3218-103-TD01"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>64a71f38-19ea-4799-9a48-587b6b5c61ef</tstamps>
+    </comp>
+    <comp ref="C18">
+      <value>ACH3218-103-TD01</value>
+      <footprint>CAP_TDK_ACH3218_TDK</footprint>
+      <datasheet>https://product.tdk.com/en/system/files?file=dam/doc/product/emc/emc/3tf/catalog/3tf_commercial_power_ach3218_en.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">TDK Corporation</field>
+        <field name="Part">ACH3218-103-TD01</field>
+      </fields>
+      <libsource lib="Custom" part="ACH3218-103-TD01" description=""/>
+      <property name="Manufacturer" value="TDK Corporation"/>
+      <property name="Part" value="ACH3218-103-TD01"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FACED Frame Clock.kicad_sch"/>
+      <property name="ki_keywords" value="ACH3218-103-TD01"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>49bcf657-82f7-4d02-b6db-c92c4c6cffa1</tstamps>
+    </comp>
+    <comp ref="C19">
+      <value>4.7µF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/609/CL10A475KP8NNNC_Spec.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Part">CL10A475KP8NNNC</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Part" value="CL10A475KP8NNNC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FACED Frame Clock.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dbd1fa5e-3e62-4fb0-a67f-0fdbd4726ad7</tstamps>
+    </comp>
+    <comp ref="C20">
+      <value>4.7µF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/609/CL10A475KP8NNNC_Spec.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Part">CL10A475KP8NNNC</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Part" value="CL10A475KP8NNNC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FACED Frame Clock.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6736ebec-f1a6-4d96-ad17-8c5899b476dd</tstamps>
+    </comp>
+    <comp ref="C21">
+      <value>0.1µF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/mlcc/catalog/mlcc_commercial_general_en.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">TDK Corporation</field>
+        <field name="Part">C1608X7R1H104K080AA</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Manufacturer" value="TDK Corporation"/>
+      <property name="Part" value="C1608X7R1H104K080AA"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FACED Frame Clock.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3569baee-38a0-4f16-9245-0ae453675f7f</tstamps>
+    </comp>
+    <comp ref="C22">
+      <value>0.1µF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/mlcc/catalog/mlcc_commercial_general_en.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">TDK Corporation</field>
+        <field name="Part">C1608X7R1H104K080AA</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Manufacturer" value="TDK Corporation"/>
+      <property name="Part" value="C1608X7R1H104K080AA"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FACED Frame Clock.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6b15b055-eee1-4616-a91a-f94b8eb3ebd5</tstamps>
+    </comp>
+    <comp ref="C25">
+      <value>0.1µF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/mlcc/catalog/mlcc_commercial_general_en.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">TDK Corporation</field>
+        <field name="Part">C1608X7R1H104K080AA</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Manufacturer" value="TDK Corporation"/>
+      <property name="Part" value="C1608X7R1H104K080AA"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FACED Frame Clock.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>843d4596-104f-40ca-aab4-90786aa673aa</tstamps>
+    </comp>
+    <comp ref="H1">
+      <value>~</value>
+      <footprint>MountingHole:MountingHole_6.5mm_Pad_Via</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Manufacturer" value=""/>
+      <property name="Part" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FACED Frame Clock.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole with connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>72500dbd-b7bf-454c-b7dd-5d8bd31c0b11</tstamps>
+    </comp>
+    <comp ref="H2">
+      <value>~</value>
+      <footprint>MountingHole:MountingHole_6.5mm_Pad_Via</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Manufacturer" value=""/>
+      <property name="Part" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FACED Frame Clock.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole with connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>09a4bdc6-1bd6-47de-ae91-970681f5b20c</tstamps>
+    </comp>
+    <comp ref="H3">
+      <value>~</value>
+      <footprint>MountingHole:MountingHole_6.5mm_Pad_Via</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Manufacturer" value=""/>
+      <property name="Part" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FACED Frame Clock.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole with connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bc09a0f8-3a13-4683-8d36-b65116724983</tstamps>
+    </comp>
+    <comp ref="H4">
+      <value>~</value>
+      <footprint>MountingHole:MountingHole_6.5mm_Pad_Via</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Manufacturer" value=""/>
+      <property name="Part" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FACED Frame Clock.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole with connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f89182cb-261c-4c09-86d3-b631b0dc0478</tstamps>
+    </comp>
+    <comp ref="H5">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_2.2mm_M2_DIN965_Pad</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Manufacturer" value=""/>
+      <property name="Part" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FACED Frame Clock.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole with connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b97fa8f4-46b0-41d0-914e-a371a504e329</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>Conn_Coaxial</value>
+      <footprint>Custom footprints:LINX_CONSMA001-C-G</footprint>
+      <datasheet>https://app.adam-tech.com/products/download/data_sheet/219105/rf2-04a-t-00-50-g-data-sheet.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">Adam Tech</field>
+        <field name="Part">RF2-04A-T-00-50-G</field>
+      </fields>
+      <libsource lib="Connector" part="Conn_Coaxial" description="coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"/>
+      <property name="Manufacturer" value="Adam Tech"/>
+      <property name="Part" value="RF2-04A-T-00-50-G"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FACED Frame Clock.kicad_sch"/>
+      <property name="ki_description" value="coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"/>
+      <property name="ki_keywords" value="BNC SMA SMB SMC LEMO coaxial connector CINCH RCA"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8dc75402-083d-47f5-aa6b-b35faf163bef</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>Conn_Coaxial</value>
+      <footprint>Custom footprints:LINX_CONSMA001-C-G</footprint>
+      <datasheet>https://app.adam-tech.com/products/download/data_sheet/219105/rf2-04a-t-00-50-g-data-sheet.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">Adam Tech</field>
+        <field name="Part">RF2-04A-T-00-50-G</field>
+      </fields>
+      <libsource lib="Connector" part="Conn_Coaxial" description="coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"/>
+      <property name="Manufacturer" value="Adam Tech"/>
+      <property name="Part" value="RF2-04A-T-00-50-G"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FACED Frame Clock.kicad_sch"/>
+      <property name="ki_description" value="coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"/>
+      <property name="ki_keywords" value="BNC SMA SMB SMC LEMO coaxial connector CINCH RCA"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7154e6d0-105a-4152-800e-3bf5b570e99d</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>Barrel_Jack_Switch</value>
+      <footprint>Custom footprints:Barrel_jack_694108105102_WRE</footprint>
+      <datasheet>https://www.we-online.com/katalog/datasheet/6941xx105102.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">Würth Elektronik</field>
+        <field name="Part">694108105102</field>
+      </fields>
+      <libsource lib="Connector" part="Barrel_Jack_Switch" description="DC Barrel Jack with an internal switch"/>
+      <property name="Manufacturer" value="Würth Elektronik"/>
+      <property name="Part" value="694108105102"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FACED Frame Clock.kicad_sch"/>
+      <property name="ki_description" value="DC Barrel Jack with an internal switch"/>
+      <property name="ki_keywords" value="DC power barrel jack connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>80a4bf4b-4cb9-4ae3-b6c0-c2188335bdb9</tstamps>
+    </comp>
+    <comp ref="JP1">
+      <value>~</value>
+      <footprint>Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="Jumper_2_Open" description="Jumper, 2-pole, open"/>
+      <property name="Manufacturer" value=""/>
+      <property name="Part" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FACED Frame Clock.kicad_sch"/>
+      <property name="ki_description" value="Jumper, 2-pole, open"/>
+      <property name="ki_keywords" value="Jumper SPST"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0c3800c8-3244-4b64-abf7-df9ee167611c</tstamps>
+    </comp>
+    <comp ref="JP2">
+      <value>~</value>
+      <footprint>Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="Jumper_2_Open" description="Jumper, 2-pole, open"/>
+      <property name="Manufacturer" value=""/>
+      <property name="Part" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FACED Frame Clock.kicad_sch"/>
+      <property name="ki_description" value="Jumper, 2-pole, open"/>
+      <property name="ki_keywords" value="Jumper SPST"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3954ef8e-a37c-4aff-b862-37911bf9fa7f</tstamps>
+    </comp>
+    <comp ref="JP3">
+      <value>~</value>
+      <footprint>Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="Jumper_2_Open" description="Jumper, 2-pole, open"/>
+      <property name="Manufacturer" value=""/>
+      <property name="Part" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FACED Frame Clock.kicad_sch"/>
+      <property name="ki_description" value="Jumper, 2-pole, open"/>
+      <property name="ki_keywords" value="Jumper SPST"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9f2cf8a7-1b5d-4816-ad63-a49e83fcf9b5</tstamps>
+    </comp>
+    <comp ref="JP4">
+      <value>~</value>
+      <footprint>Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="Jumper_2_Open" description="Jumper, 2-pole, open"/>
+      <property name="Manufacturer" value=""/>
+      <property name="Part" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FACED Frame Clock.kicad_sch"/>
+      <property name="ki_description" value="Jumper, 2-pole, open"/>
+      <property name="ki_keywords" value="Jumper SPST"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>de2a2dcd-e9de-4b39-83fc-88c95a1f3b3a</tstamps>
+    </comp>
+    <comp ref="LDO1">
+      <value>+6V LDO</value>
+      <footprint>Package_TO_SOT_SMD:SOT-89-3</footprint>
+      <datasheet>https://www.mccsemi.com/pdf/Products/MC78L06F(SOT-89).pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">Micro Commercial Co</field>
+        <field name="Part">MC78L06F-TP</field>
+      </fields>
+      <libsource lib="Custom" part="6V_LDO" description=""/>
+      <property name="Manufacturer" value="Micro Commercial Co"/>
+      <property name="Part" value="MC78L06F-TP"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FACED Frame Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6518ddbd-6a88-44e7-8674-e2d9bf7031f4</tstamps>
+    </comp>
+    <comp ref="LDO2">
+      <value>-6V LDO</value>
+      <footprint>Package_TO_SOT_SMD:SOT-89-3</footprint>
+      <datasheet>https://www.mccsemi.com/pdf/Products/MC79L06F(SOT-89).pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">Micro Commercial Co</field>
+        <field name="Part">MC79L06F-TP</field>
+      </fields>
+      <libsource lib="Custom" part="-6V_LDO" description=""/>
+      <property name="Manufacturer" value="Micro Commercial Co"/>
+      <property name="Part" value="MC79L06F-TP"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FACED Frame Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f66409e3-95b9-4656-9cb1-9858e3aba615</tstamps>
+    </comp>
+    <comp ref="PS1">
+      <value>R2D-0509</value>
+      <footprint>Custom footprints:CONV_R2D-0509</footprint>
+      <datasheet>https://recom-power.com/pdf/Econoline/R2S_R2D.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">Recom Power</field>
+        <field name="Part">R2D-0509</field>
+      </fields>
+      <libsource lib="Custom" part="R2D-0509" description=""/>
+      <property name="Manufacturer" value="Recom Power"/>
+      <property name="Part" value="R2D-0509"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FACED Frame Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>81fe8db3-9de4-4109-9fcb-28ccde2836fd</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>47k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>https://www.susumu.co.jp/common/pdf/n_catalog_partition05_en.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">Susumu</field>
+        <field name="Part">RR1220P-473-D</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Manufacturer" value="Susumu"/>
+      <property name="Part" value="RR1220P-473-D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FACED Frame Clock.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b78f7f3c-86e3-4b41-8b8d-39cfb3fc28d2</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>47</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://www.yageo.com/upload/media/product/app/datasheet/rchip/pyu-rt_1-to-0.01_rohs_l.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">YAGEO</field>
+        <field name="Part">RT0603DRD0747RL</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Manufacturer" value="YAGEO"/>
+      <property name="Part" value="RT0603DRD0747RL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FACED Frame Clock.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>541b6988-5533-490a-bc86-9cd8f15246a9</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>LT1711xMS8</value>
+      <footprint>Package_SO:MSOP-8_3x3mm_P0.65mm</footprint>
+      <datasheet>https://www.analog.com/media/en/technical-documentation/data-sheets/171112f.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">Analog Devices Inc.</field>
+        <field name="Part">LT1711IMS8#TRPBF</field>
+      </fields>
+      <libsource lib="Comparator" part="LT1711xMS8" description="Single ultrafast 4.5 ns rail-to-rail comparator, MSOP-8"/>
+      <property name="Manufacturer" value="Analog Devices Inc."/>
+      <property name="Part" value="LT1711IMS8#TRPBF"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FACED Frame Clock.kicad_sch"/>
+      <property name="ki_description" value="Single ultrafast 4.5 ns rail-to-rail comparator, MSOP-8"/>
+      <property name="ki_keywords" value="cmp latch push-pull complementary"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cfe040a6-0ce1-446a-aa31-95deaab10324</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>TXU0202DCUR</value>
+      <footprint>Custom footprints:TXU0202DCUR</footprint>
+      <datasheet>https://www.ti.com/lit/ds/symlink/txu0202.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">Texas Instruments</field>
+        <field name="Part">TXU0202DCUR</field>
+      </fields>
+      <libsource lib="Custom" part="TXU0202DCUR" description=""/>
+      <property name="Manufacturer" value="Texas Instruments"/>
+      <property name="Part" value="TXU0202DCUR"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FACED Frame Clock.kicad_sch"/>
+      <property name="ki_keywords" value="TXU0202DCUR"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>10b40f96-4081-4944-af07-70d7f5062fb9</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>Teensy4.0</value>
+      <footprint>Custom footprints:Teensy40-with headers</footprint>
+      <datasheet>https://cdn.sparkfun.com/assets/7/f/3/c/5/teensy40_pinout1.png</datasheet>
+      <fields>
+        <field name="Manufacturer">SparkFun Electronics</field>
+        <field name="Part">DEV-16997</field>
+      </fields>
+      <libsource lib="teensy" part="Teensy4.0-header_only" description=""/>
+      <property name="Manufacturer" value="SparkFun Electronics"/>
+      <property name="Part" value="DEV-16997"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FACED Frame Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>755e0686-cb95-4e30-b525-8475c4e4a2a1</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Comparator" part="LT1711xMS8">
+      <description>Single ultrafast 4.5 ns rail-to-rail comparator, MSOP-8</description>
+      <docs>https://www.analog.com/media/en/technical-documentation/data-sheets/171112f.pdf</docs>
+      <footprints>
+        <fp>MSOP*3x3mm*P0.65mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LT1711xMS8</field>
+        <field name="Footprint">Package_SO:MSOP-8_3x3mm_P0.65mm</field>
+        <field name="Datasheet">https://www.analog.com/media/en/technical-documentation/data-sheets/171112f.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="V+" type="power_in"/>
+        <pin num="2" name="+" type="input"/>
+        <pin num="3" name="-" type="input"/>
+        <pin num="4" name="V-" type="power_in"/>
+        <pin num="5" name="LATCH" type="input"/>
+        <pin num="6" name="GND" type="power_in"/>
+        <pin num="7" name="Q" type="output"/>
+        <pin num="8" name="~{Q}" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Barrel_Jack_Switch">
+      <description>DC Barrel Jack with an internal switch</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>BarrelJack*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Barrel_Jack_Switch</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_Coaxial">
+      <description>coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)</description>
+      <docs> ~</docs>
+      <footprints>
+        <fp>*BNC*</fp>
+        <fp>*SMA*</fp>
+        <fp>*SMB*</fp>
+        <fp>*SMC*</fp>
+        <fp>*Cinch*</fp>
+        <fp>*LEMO*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_Coaxial</field>
+        <field name="Datasheet"> ~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="In" type="passive"/>
+        <pin num="2" name="Ext" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Custom" part="-6V_LDO">
+      <fields>
+        <field name="Reference">LDO</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="Vin" type="power_in"/>
+        <pin num="3" name="Vout" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Custom" part="6V_LDO">
+      <fields>
+        <field name="Reference">LDO</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Vout" type="power_in"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="Vin" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Custom" part="ACH3218-103-TD01">
+      <docs>ACH3218-103-TD01</docs>
+      <footprints>
+        <fp>CAP_TDK_ACH3218_TDK</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">ACH3218-103-TD01</field>
+        <field name="Footprint">CAP_TDK_ACH3218_TDK</field>
+        <field name="Datasheet">ACH3218-103-TD01</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="unspecified"/>
+        <pin num="2" name="2" type="input"/>
+        <pin num="3" name="3" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Custom" part="R2D-0509">
+      <fields>
+        <field name="Reference">PS</field>
+        <field name="Value">R2D-0509</field>
+        <field name="Footprint">R2D-0509:CONV_R2D-0509</field>
+        <field name="PARTREV">0</field>
+        <field name="MANUFACTURER">RECOM</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">9.0mm</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+      </fields>
+      <pins>
+        <pin num="1" name="-VIN" type="input"/>
+        <pin num="2" name="+VIN" type="input"/>
+        <pin num="4" name="COM" type="power_in"/>
+        <pin num="5" name="-VOUT" type="output"/>
+        <pin num="7" name="+VOUT" type="output"/>
+        <pin num="10" name="NC" type="no_connect"/>
+      </pins>
+    </libpart>
+    <libpart lib="Custom" part="TXU0202DCUR">
+      <docs>TXU0202DCUR</docs>
+      <footprints>
+        <fp>SO8_DCU_TEX</fp>
+        <fp>SO8_DCU_TEX-M</fp>
+        <fp>SO8_DCU_TEX-L</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">TXU0202DCUR</field>
+        <field name="Footprint">SO8_DCU_TEX</field>
+        <field name="Datasheet">TXU0202DCUR</field>
+      </fields>
+      <pins>
+        <pin num="1" name="B2" type="input"/>
+        <pin num="2" name="GND" type="power_out"/>
+        <pin num="3" name="VCCA" type="power_in"/>
+        <pin num="4" name="A2Y" type="output"/>
+        <pin num="5" name="A1" type="input"/>
+        <pin num="6" name="OE" type="input"/>
+        <pin num="7" name="VCCB" type="power_in"/>
+        <pin num="8" name="B1Y" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Small">
+      <description>Unpolarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Small">
+      <description>Resistor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Jumper" part="Jumper_2_Open">
+      <description>Jumper, 2-pole, open</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Jumper*</fp>
+        <fp>TestPoint*2Pads*</fp>
+        <fp>TestPoint*Bridge*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">JP</field>
+        <field name="Value">Jumper_2_Open</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="B" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole_Pad">
+      <description>Mounting Hole with connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*Pad*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole_Pad</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="teensy" part="Teensy4.0-header_only">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">Teensy4.0</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="0_RX1_CRX2_CS1" type="bidirectional"/>
+        <pin num="3" name="1_TX1_CTX2_MISO1" type="bidirectional"/>
+        <pin num="4" name="2_OUT2" type="bidirectional"/>
+        <pin num="5" name="3_LRCLK2" type="bidirectional"/>
+        <pin num="6" name="4_BCLK2" type="bidirectional"/>
+        <pin num="7" name="5_IN2" type="bidirectional"/>
+        <pin num="8" name="6_OUT1D" type="bidirectional"/>
+        <pin num="9" name="7_RX2_OUT1A" type="bidirectional"/>
+        <pin num="10" name="8_TX2_IN1" type="bidirectional"/>
+        <pin num="11" name="9_OUT1C" type="bidirectional"/>
+        <pin num="12" name="10_CS_MQSR" type="bidirectional"/>
+        <pin num="13" name="11_MOSI_CTX1" type="bidirectional"/>
+        <pin num="14" name="12_MISO_MQSL" type="bidirectional"/>
+        <pin num="20" name="13_SCK_CRX1_LED" type="bidirectional"/>
+        <pin num="21" name="14_A0_TX3_SPDIF_OUT" type="bidirectional"/>
+        <pin num="22" name="15_A1_RX3_SPDIF_IN" type="bidirectional"/>
+        <pin num="23" name="16_A2_RX4_SCL1" type="bidirectional"/>
+        <pin num="24" name="17_A3_TX4_SDA1" type="bidirectional"/>
+        <pin num="25" name="18_A4_SDA0" type="bidirectional"/>
+        <pin num="26" name="19_A5_SCL0" type="bidirectional"/>
+        <pin num="27" name="20_A6_TX5_LRCLK1" type="bidirectional"/>
+        <pin num="28" name="21_A7_RX5_BCLK1" type="bidirectional"/>
+        <pin num="29" name="22_A8_CTX1" type="bidirectional"/>
+        <pin num="30" name="23_A9_CRX1_MCLK1" type="bidirectional"/>
+        <pin num="31" name="3V3" type="power_out"/>
+        <pin num="32" name="GND" type="power_in"/>
+        <pin num="33" name="VIN" type="power_in"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Comparator">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Comparator.kicad_sym</uri>
+    </library>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Custom">
+      <uri>C:\Users\Ben\Documents\GitHub\FACED_Comparator_Frame_Clock\FACED Frame Clock/Custom.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="Jumper">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Jumper.kicad_sym</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Mechanical.kicad_sym</uri>
+    </library>
+    <library logical="teensy">
+      <uri>C:/Users/Ben/Documents/GitHub/FACED_Comparator_Frame_Clock/FACED Frame Clock/teensy.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+3V3">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="U2" pin="6" pinfunction="OE" pintype="input"/>
+      <node ref="U2" pin="7" pinfunction="VCCB" pintype="power_in"/>
+      <node ref="U3" pin="31" pinfunction="3V3" pintype="power_out"/>
+    </net>
+    <net code="2" name="+5V">
+      <node ref="C11" pin="1" pinfunction="1" pintype="unspecified"/>
+      <node ref="C12" pin="3" pinfunction="3" pintype="input"/>
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="U2" pin="3" pinfunction="VCCA" pintype="power_in"/>
+      <node ref="U3" pin="33" pinfunction="VIN" pintype="power_in"/>
+    </net>
+    <net code="3" name="+6V">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="LDO1" pin="1" pinfunction="Vout" pintype="power_in"/>
+      <node ref="U1" pin="1" pinfunction="V+" pintype="power_in"/>
+    </net>
+    <net code="4" name="-6V">
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="LDO2" pin="3" pinfunction="Vout" pintype="power_in"/>
+      <node ref="U1" pin="4" pinfunction="V-" pintype="power_in"/>
+    </net>
+    <net code="5" name="/-9V">
+      <node ref="C16" pin="2" pintype="passive"/>
+      <node ref="C18" pin="3" pinfunction="3" pintype="input"/>
+      <node ref="PS1" pin="5" pinfunction="-VOUT" pintype="output"/>
+    </net>
+    <net code="6" name="/9V">
+      <node ref="C15" pin="1" pintype="passive"/>
+      <node ref="C17" pin="1" pinfunction="1" pintype="unspecified"/>
+      <node ref="PS1" pin="7" pinfunction="+VOUT" pintype="output"/>
+    </net>
+    <net code="7" name="/Frame_clock_3v3">
+      <node ref="U2" pin="1" pinfunction="B2" pintype="input"/>
+      <node ref="U3" pin="11" pinfunction="9_OUT1C" pintype="bidirectional"/>
+    </net>
+    <net code="8" name="/Frame_clock_5V">
+      <node ref="J3" pin="1" pinfunction="In" pintype="passive"/>
+      <node ref="U2" pin="4" pinfunction="A2Y" pintype="output"/>
+    </net>
+    <net code="9" name="/Mirror_phase_3v3">
+      <node ref="U2" pin="8" pinfunction="B1Y" pintype="output"/>
+      <node ref="U3" pin="13" pinfunction="11_MOSI_CTX1" pintype="bidirectional"/>
+    </net>
+    <net code="10" name="/Mirror_phase_5v5">
+      <node ref="U1" pin="7" pinfunction="Q" pintype="output"/>
+      <node ref="U2" pin="5" pinfunction="A1" pintype="input"/>
+    </net>
+    <net code="11" name="/Vmirror">
+      <node ref="J2" pin="1" pinfunction="In" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="12" name="/hysteresis">
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="13" name="GND">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C11" pin="2" pinfunction="2" pintype="input"/>
+      <node ref="C12" pin="2" pinfunction="2" pintype="input"/>
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="C15" pin="2" pintype="passive"/>
+      <node ref="C16" pin="1" pintype="passive"/>
+      <node ref="C17" pin="2" pinfunction="2" pintype="input"/>
+      <node ref="C18" pin="2" pinfunction="2" pintype="input"/>
+      <node ref="C19" pin="1" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C20" pin="1" pintype="passive"/>
+      <node ref="C21" pin="1" pintype="passive"/>
+      <node ref="C22" pin="1" pintype="passive"/>
+      <node ref="C25" pin="1" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="H5" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="J2" pin="2" pinfunction="Ext" pintype="passive"/>
+      <node ref="J3" pin="2" pinfunction="Ext" pintype="passive"/>
+      <node ref="J4" pin="2" pintype="passive"/>
+      <node ref="J4" pin="3" pintype="passive"/>
+      <node ref="JP1" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="JP2" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="JP3" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="JP4" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="LDO1" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="LDO2" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="PS1" pin="1" pinfunction="-VIN" pintype="input"/>
+      <node ref="PS1" pin="4" pinfunction="COM" pintype="power_in"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="LATCH" pintype="input"/>
+      <node ref="U1" pin="6" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="2" pinfunction="GND" pintype="power_out"/>
+      <node ref="U3" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="32" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="14" name="Net-(C11-Pad3)">
+      <node ref="C11" pin="3" pinfunction="3" pintype="input"/>
+      <node ref="J4" pin="1" pintype="passive"/>
+    </net>
+    <net code="15" name="Net-(JP1-B)">
+      <node ref="H1" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="JP1" pin="2" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="16" name="Net-(JP2-B)">
+      <node ref="H2" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="JP2" pin="2" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="17" name="Net-(JP3-B)">
+      <node ref="H3" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="JP3" pin="2" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="18" name="Net-(JP4-B)">
+      <node ref="H4" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="JP4" pin="2" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="19" name="Net-(LDO1-Vin)">
+      <node ref="C17" pin="3" pinfunction="3" pintype="input"/>
+      <node ref="C19" pin="2" pintype="passive"/>
+      <node ref="C21" pin="2" pintype="passive"/>
+      <node ref="LDO1" pin="3" pinfunction="Vin" pintype="power_in"/>
+    </net>
+    <net code="20" name="Net-(LDO2-Vin)">
+      <node ref="C18" pin="1" pinfunction="1" pintype="unspecified"/>
+      <node ref="C20" pin="2" pintype="passive"/>
+      <node ref="C25" pin="2" pintype="passive"/>
+      <node ref="LDO2" pin="2" pinfunction="Vin" pintype="power_in"/>
+    </net>
+    <net code="21" name="Net-(PS1-+VIN)">
+      <node ref="C12" pin="1" pinfunction="1" pintype="unspecified"/>
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="C22" pin="2" pintype="passive"/>
+      <node ref="PS1" pin="2" pinfunction="+VIN" pintype="input"/>
+    </net>
+    <net code="22" name="Net-(U1-~{Q})">
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="U1" pin="8" pinfunction="~{Q}" pintype="output"/>
+    </net>
+    <net code="23" name="unconnected-(PS1-NC-Pad10)">
+      <node ref="PS1" pin="10" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="24" name="unconnected-(U3-0_RX1_CRX2_CS1-Pad2)">
+      <node ref="U3" pin="2" pinfunction="0_RX1_CRX2_CS1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="25" name="unconnected-(U3-1_TX1_CTX2_MISO1-Pad3)">
+      <node ref="U3" pin="3" pinfunction="1_TX1_CTX2_MISO1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="26" name="unconnected-(U3-2_OUT2-Pad4)">
+      <node ref="U3" pin="4" pinfunction="2_OUT2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="27" name="unconnected-(U3-3_LRCLK2-Pad5)">
+      <node ref="U3" pin="5" pinfunction="3_LRCLK2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="28" name="unconnected-(U3-4_BCLK2-Pad6)">
+      <node ref="U3" pin="6" pinfunction="4_BCLK2" pintype="bidirectional"/>
+    </net>
+    <net code="29" name="unconnected-(U3-5_IN2-Pad7)">
+      <node ref="U3" pin="7" pinfunction="5_IN2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="30" name="unconnected-(U3-6_OUT1D-Pad8)">
+      <node ref="U3" pin="8" pinfunction="6_OUT1D" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="31" name="unconnected-(U3-7_RX2_OUT1A-Pad9)">
+      <node ref="U3" pin="9" pinfunction="7_RX2_OUT1A" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="32" name="unconnected-(U3-8_TX2_IN1-Pad10)">
+      <node ref="U3" pin="10" pinfunction="8_TX2_IN1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="33" name="unconnected-(U3-10_CS_MQSR-Pad12)">
+      <node ref="U3" pin="12" pinfunction="10_CS_MQSR" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="34" name="unconnected-(U3-12_MISO_MQSL-Pad14)">
+      <node ref="U3" pin="14" pinfunction="12_MISO_MQSL" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="35" name="unconnected-(U3-13_SCK_CRX1_LED-Pad20)">
+      <node ref="U3" pin="20" pinfunction="13_SCK_CRX1_LED" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="36" name="unconnected-(U3-14_A0_TX3_SPDIF_OUT-Pad21)">
+      <node ref="U3" pin="21" pinfunction="14_A0_TX3_SPDIF_OUT" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="37" name="unconnected-(U3-15_A1_RX3_SPDIF_IN-Pad22)">
+      <node ref="U3" pin="22" pinfunction="15_A1_RX3_SPDIF_IN" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="38" name="unconnected-(U3-16_A2_RX4_SCL1-Pad23)">
+      <node ref="U3" pin="23" pinfunction="16_A2_RX4_SCL1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="39" name="unconnected-(U3-17_A3_TX4_SDA1-Pad24)">
+      <node ref="U3" pin="24" pinfunction="17_A3_TX4_SDA1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="40" name="unconnected-(U3-18_A4_SDA0-Pad25)">
+      <node ref="U3" pin="25" pinfunction="18_A4_SDA0" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="41" name="unconnected-(U3-19_A5_SCL0-Pad26)">
+      <node ref="U3" pin="26" pinfunction="19_A5_SCL0" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="42" name="unconnected-(U3-20_A6_TX5_LRCLK1-Pad27)">
+      <node ref="U3" pin="27" pinfunction="20_A6_TX5_LRCLK1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="43" name="unconnected-(U3-21_A7_RX5_BCLK1-Pad28)">
+      <node ref="U3" pin="28" pinfunction="21_A7_RX5_BCLK1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="44" name="unconnected-(U3-22_A8_CTX1-Pad29)">
+      <node ref="U3" pin="29" pinfunction="22_A8_CTX1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="45" name="unconnected-(U3-23_A9_CRX1_MCLK1-Pad30)">
+      <node ref="U3" pin="30" pinfunction="23_A9_CRX1_MCLK1" pintype="bidirectional+no_connect"/>
+    </net>
+  </nets>
+</export>
